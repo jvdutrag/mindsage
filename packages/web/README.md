@@ -1,1 +1,2 @@
-# musify-client
+# web
+Built with React using Typescript.

@@ -1,1 +1,2 @@
-# musify-server
+# server
+Built with Nest.js
