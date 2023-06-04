@@ -5,6 +5,8 @@ Used stack:
 - OpenAI's API
 - Nest.js
 - React
+- Material UI 5 (MUI 5)
+- Redux Toolkit
 - Typescript
 - PostgreSQL
 - Docker
