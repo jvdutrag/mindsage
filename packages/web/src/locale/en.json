@@ -1,0 +1,145 @@
+{
+    "feedback": {
+        "errors": {
+            "saving": "An error occurred while saving",
+            "loading": "An error occurred while loading",
+            "logging_in": "An error occurred while logging in",
+            "logging_out": "An error occurred while logging out",
+            "sending": "An error occurred while sending",
+            "starting": "An error occurred while starting the conversation",
+            "google_script_error": "Your browser is likely blocking Google integration. This usually happens with Safari when using content blockers. Try using a different browser or temporarily disable this feature"
+        },
+        "success": {
+            "saving": "Successfully saved!"
+        }
+    },
+    "common": {
+        "continue_with_google": "Continue with Google",
+        "continue_with_apple": "Continue with Apple",
+        "required": "This field is required",
+        "genders": {
+            "M": "Male",
+            "F": "Female",
+            "NB": "Non-Binary"
+        },
+        "email": "contact@mindsage.app",
+        "privacy_policy": "Privacy Policy",
+        "terms_of_use": "Terms of Use",
+        "entrance": {
+            "one": "By continuing, you agree to our",
+            "two": "and our"
+        },
+        "language": "Language",
+        "confirm": "Confirm"
+    },
+    "home": {
+        "section_one": {
+            "title": "Improve your mental health in a easy way",
+            "paragraph_one": "MindSage is a platform that helps you feel better as you go through life's ups and downs.",
+            "paragraph_two": "Chat with Mindy, our emotional artificial intelligence who is ready to guide you on a journey of self-knowledge and improvement of your mental health.",
+            "paragraph_three": "Receive therapeutic counseling to deal with anxiety, stress, depression and anything else that is bothering you. We can help you find a specialist if you need additional help."
+        },
+        "section_two": {
+            "title": "Count on us to have someone by your side",
+            "paragraph": "You will receive practical advice to apply today and learn better ways to cope with the future.",
+            "points": {
+                "one": {
+                    "title": "Boost your confidence",
+                    "description": "Learn to replace negative self-criticism with acts of self-compassion"
+                },
+                "two": {
+                    "title": "Discover yourself",
+                    "description": "Uncover your values, beliefs, and motivations to live a more meaningful life"
+                },
+                "three": {
+                    "title": "Change thinking patterns",
+                    "description": "Retrain your brain with functional thoughts to avoid stress and anxiety"
+                },
+                "four": {
+                    "title": "Understand your emotions",
+                    "description": "Stay in tune with your anxieties and desires and learn why you react the way you do"
+                }
+            }
+        },
+        "section_three": {
+            "title": "Small conversations, significant progress",
+            "paragraph_one": "We believe we can combine science with technology to help you feel better, no matter what you're going through.",
+            "paragraph_two": "Our technology combines decades of psychological research with artificial intelligence to respond with empathy and compassion to anything you want to talk about.",
+            "paragraph_three": "We use clinically tested therapeutic approaches in conjunction with one of the most complete models of artificial intelligence today, OpenAI's ChatGPT."
+        },
+        "start": "Get started"
+    },
+    "header": {
+        "login": "Already have an account?",
+        "logout": "Logout",
+        "platform": "View Platform"
+    },
+    "login": {
+        "title": "Welcome back!",
+        "description": "To access our tools, simply log in to your account."
+    },
+    "register": {
+        "title": "Let's start your journey!",
+        "description": "It's easy and fast. Just choose a registration method below:"
+    },
+    "chat": {
+        "menu": {
+            "talk": "Chat",
+            "account": "Account"
+        },
+        "box": {
+            "setup": {
+                "title": "Welcome to MindSage!",
+                "description": "I'm Mindy and I'm here to help you feel better.",
+                "button": "Get started",
+                "steps": [
+                    "Before we begin, I need to make it clear that all our conversations are encrypted and we do not store any records of them. We only store basic personal information to help me assist you better and improve my intelligence over the sessions. By continuing, you agree to this.",
+                    "I will need to know some information about you to be able to help you, okay?",
+                    "What's your first name?",
+                    "What is your gender?",
+                    "When were you born?",
+                    "Please wait a moment while I process the information..."
+                ],
+                "next": "OK, continue",
+                "loading": "Typing..."
+            },
+            "title": "Welcome back, {{name}}",
+            "description": "Click the button below to start a new conversation with me.",
+            "button": "Start a new conversation",
+            "inputPlaceholder": "Type your message here...",
+            "initialMessage": "Hello, {{name}}! How are you feeling today?"
+        }
+    },
+    "account": {
+        "form": {
+            "name": {
+                "label": "Name",
+                "helperText": "Just the first name is enough",
+                "placeholder": "E.g. John"
+            },
+            "dob": {
+                "label": "Date of Birth",
+                "placeholder": "E.g., 01/03/1995"
+            },
+            "gender": {
+                "label": "Gender"
+            },
+            "lang": {
+                "label": "Language"
+            },
+            "submit": "Save"
+        },
+        "dialog": {
+            "title": "Delete account",
+            "description": "Are you sure you want to delete your account? This action cannot be undone."
+        },
+        "email": "Email",
+        "connected_with": {
+            "title": "Connected with",
+            "google": "Google",
+            "apple": "Apple"
+        },
+        "delete": "Delete account and data",
+        "logout": "Logout"
+    }
+}

@@ -1,0 +1,145 @@
+{
+    "feedback": {
+        "errors": {
+            "saving": "Ocorreu um erro ao tentar salvar suas informações",
+            "loading": "Ocorreu um erro ao tentar carregar suas informações",
+            "logging_in": "Ocorreu um erro ao tentar fazer login",
+            "logging_out": "Ocorreu um erro ao tentar sair da sua conta",
+            "sending": "Ocorreu um erro ao tentar enviar sua mensagem",
+            "starting": "Ocorreu um erro ao tentar iniciar a conversa",
+            "google_script_error": "Erro ao carregar! Seu navegador provavelmente está bloqueando a função de login com o Google, normalmente acontece com o Safari ao utilizar bloqueadores de conteúdo. Tente com outro navegador ou desative essa função temporariamente"
+        },
+        "success": {
+            "saving": "Salvo com sucesso"
+        }
+    },
+    "common": {
+        "continue_with_google": "Continuar com Google",
+        "continue_with_apple": "Continuar com Apple",
+        "required": "Este campo é obrigatório",
+        "genders": {
+            "M": "Masculino",
+            "F": "Feminino",
+            "NB": "Não Binário"
+        },
+        "email": "contato@mindsage.app",
+        "privacy_policy": "Política de Privacidade",
+        "terms_of_use": "Termos de Uso",
+        "entrance": {
+            "one": "Ao continuar, você concorda com nossa",
+            "two": "e com nossos"
+        },
+        "language": "Idioma",
+        "confirm": "Confirmar"
+    },
+    "home": {
+        "section_one": {
+            "title": "Melhore sua saúde mental de forma prática",
+            "paragraph_one": "MindSage é uma plataforma que te ajuda a se sentir melhor ao passar pelos altos e baixos da vida.",
+            "paragraph_two": "Converse com Mindy, nossa inteligência artificial emocional que está pronta para te guiar em uma jornada de autoconhecimento e melhora da sua saúde mental.",
+            "paragraph_three": "Receba aconselhamento terapêutico para lidar com ansiedade, estresse, depressão e qualquer coisa que esteja lhe incomodando. Podemos te ajudar a encontrar um profissional especializado caso você precise de ajuda adicional."
+        },
+        "section_two": {
+            "title": "Conte conosco para ter alguém ao seu lado",
+            "paragraph": "Você receberá conselhos práticos para aplicar hoje e aprenderá maneiras de lidar melhor com o futuro.",
+            "points": {
+                "one": {
+                    "title": "Aumente sua confiança",
+                    "description": "Aprenda a trocar a autocrítica negativa por atos de compaixão com si mesmo"
+                },
+                "two": {
+                    "title": "Descubra-se",
+                    "description": "Descubra seus valores, crenças e motivações para viver uma vida mais significativa"
+                },
+                "three": {
+                    "title": "Mude os padrões de pensamento",
+                    "description": "Retreine seu cérebro em cima de pensamentos funcionais para evitar estresse e ansiedade"
+                },
+                "four": {
+                    "title": "Entenda suas emoções",
+                    "description": "Fique em sintonia com suas ansiedades e desejos e aprenda por que você reage da maneira que reage"
+                }
+            }
+        },
+        "section_three": {
+            "title": "Pequenas conversas, enorme progresso",
+            "paragraph_one": "Acreditamos que podemos combinar ciência com tecnologia para te ajudar a se sentir melhor, não importa o que você esteja passando.",
+            "paragraph_two": "Nossa tecnologia combina décadas de pesquisa na área de psicologia com inteligência artificial para responder com empatia e compaixão a qualquer coisa que você queira conversar.",
+            "paragraph_three": "Usamos abordagens terapêuticas clinicamente testadas em conjunto com um dos modelos mais completos de inteligência artificial atualmente, o ChatGPT da OpenAI."
+        },
+        "start": "Comece agora mesmo!"
+    },
+    "header": {
+        "login": "Já tem uma conta?",
+        "logout": "Sair",
+        "platform": "Acessar Plataforma"
+    },
+    "login": {
+        "title": "Bem-vindo(a) novamente!",
+        "description": "Para acessar nossas ferramentas basta fazer login com sua conta."
+    },
+    "register": {
+        "title": "Vamos começar sua jornada!",
+        "description": "É fácil e rápido. Apenas escolha uma forma de registro abaixo:"
+    },
+    "chat": {
+        "menu": {
+            "talk": "Conversar",
+            "account": "Conta"
+        },
+        "box": {
+            "setup": {
+                "title": "Seja bem-vindo(a) ao MindSage!",
+                "description": "Eu sou a Mindy, a inteligência artificial emocional que está aqui para te ajudar a se sentir melhor.",
+                "button": "Vamos começar?",
+                "steps": [
+                    "Antes de começarmos preciso deixar claro que todas nossas conversas são criptografadas e não guardamos nenhum registro dela. Apenas armazenamos informações básicas pessoais para eu conseguir te ajudar melhor e melhorar minha inteligência ao longo das sessões. Ao continuar, você concorda com isso.",
+                    "Vou precisar saber algumas informações suas para poder te ajudar, ok?",
+                    "Como posso te chamar? O primeiro nome é o suficiente.",
+                    "Qual é o seu gênero?",
+                    "Quando você nasceu?",
+                    "Aguarde um pouquinho enquanto eu processo as informações..."
+                ],
+                "next": "OK, continuar",
+                "loading": "Digitando..."
+            },
+            "title": "Bem-vindo(a) de volta, {{name}}",
+            "description": "Clique no botão abaixo para iniciar uma nova conversa comigo.",
+            "button": "Iniciar nova conversa",
+            "inputPlaceholder": "Digite aqui sua mensagem...",
+            "initialMessage": "Olá, {{name}}! Como você está se sentindo hoje?"
+        }
+    },
+    "account": {
+        "form": {
+            "name": {
+                "label": "Nome",
+                "helperText": "Apenas o primeiro nome é suficiente",
+                "placeholder": "Ex. Maria"
+            },
+            "dob": {
+                "label": "Data de nascimento",
+                "placeholder": "Ex. 01/03/1995"
+            },
+            "gender": {
+                "label": "Gênero"
+            },
+            "lang": {
+                "label": "Idioma"
+            },
+            "submit": "Salvar"
+        },
+        "dialog": {
+            "title": "Excluir conta",
+            "description": "Você tem certeza que deseja apagar sua conta? Essa ação é irreversível e todos os seus dados serão apagados permanentemente."
+        },
+        "email": "E-mail",
+        "connected_with": {
+            "title": "Conectado via",
+            "google": "Google",
+            "apple": "Apple"
+        },
+        "delete": "Excluir conta e todos os dados",
+        "logout": "Sair"
+    }
+}
